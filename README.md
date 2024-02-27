@@ -7,7 +7,7 @@ Central to our analysis was GDP and its relation to key factors such as populati
 PROSPECTIVE INSIGHTS AND ANALYTICAL OBJECTIVES
 
 Notably, countries differ significantly in the portion of their GDP allocated to healthcare and education, revealing varied priorities in these sectors. Our dataset highlights substantial disparities in GDP per capita, underlining varying living standards across nations. It offers a comprehensive perspective on nations' investments in research and development, shedding light on their commitment to innovation. Population density data spans a wide spectrum, illustrating diverse living conditions from crowded urban areas to sparsely populated rural regions.
-During the course of this project, we aim to
+During the course of this project, we aim to:
 ● Predict a country's GDP by considering various factors, including health expenditures,
 education expenditures, and industrial activities and forecast a country's future inflation
 rate by analyzing its historical inflation data.
